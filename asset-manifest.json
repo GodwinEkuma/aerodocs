@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aerodocs/static/css/main.bd10d5d0.css",
+    "main.js": "/aerodocs/static/js/main.959f11be.js",
+    "static/js/787.c966f359.chunk.js": "/aerodocs/static/js/787.c966f359.chunk.js",
+    "index.html": "/aerodocs/index.html",
+    "main.bd10d5d0.css.map": "/aerodocs/static/css/main.bd10d5d0.css.map",
+    "main.959f11be.js.map": "/aerodocs/static/js/main.959f11be.js.map",
+    "787.c966f359.chunk.js.map": "/aerodocs/static/js/787.c966f359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd10d5d0.css",
+    "static/js/main.959f11be.js"
+  ]
+}
